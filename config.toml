@@ -1,3 +1,6 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
+baseurl = "http://kalcifer.github.io/"
+title = "Kalcifer writes"
 languageCode = "en-us"
+canonifyurls = true
+contentdir = "content"
+publishdir = "public"
